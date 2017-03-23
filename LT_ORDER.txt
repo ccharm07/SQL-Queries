@@ -1,0 +1,3 @@
+SELECT
+	*
+FROM LTMASTER.LT_ORDER @to_prod
