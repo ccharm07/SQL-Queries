@@ -1,7 +1,0 @@
-SELECT
-	ID
-	, REPORT_NO
-FROM LTMASTER.LT_ORDER @to_prod
-
---TESTING FOR THIS FILE--
---this is another line comment--
