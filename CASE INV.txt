@@ -1,0 +1,10 @@
+CASE  [Category]  WHEN "INVOICE" THEN
+	
+ELSE NULL
+END
+
+
+CASE  [Category]  WHEN "QUOTATION" THEN
+	
+ELSE NULL
+END
